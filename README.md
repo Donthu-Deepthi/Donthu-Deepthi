@@ -39,7 +39,7 @@
 <tr>
 <td align="center">
   <a href="https://team-work-mgmt-system.vercel.app/">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/512/external-project-management-agile-flaticons-lineal-color-flat-icons.png" width="100px"/>
+    <img src="Screenshot 2024-12-10 175401.png" width="100px"/>
     <br>
     <b>TeamWork Management System</b>
   </a>
