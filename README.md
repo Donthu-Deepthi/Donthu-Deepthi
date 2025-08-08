@@ -48,7 +48,7 @@
 
 <td align="center">
   <a href="https://e-commerce-seven-rose-21.vercel.app/">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/512/external-online-shopping-e-commerce-flat-flat-juicy-fish.png](https://img.freepik.com/premium-photo/ecommerce-attractive-engaging-hd-wallpaper-background-photo_853645-71897.jpg)" width="100px"/>
+    <img src="Screenshot 2025-08-08 134251.png" width="100px"/>
     <br>
     <b>E-Commerce Website</b>
   </a>
