@@ -48,7 +48,7 @@
 
 <td align="center">
   <a href="https://e-commerce-seven-rose-21.vercel.app/">
-    <img src="Screenshot 2025-08-08 134251.png" width="100px"/>
+    <img src="Screenshot 2025-08-08 135054.png" width="100px"/>
     <br>
     <b>E-Commerce Website</b>
   </a>
