@@ -54,6 +54,16 @@
   </a>
   <p>Secure login, product browsing, user-friendly shopping interface.</p>
 </td>
+
+<td align="center">
+  <a href="https://url-shortener-six-navy.vercel.app/">
+    <img src="Screenshot 2024-12-10 175401.png" width="100px"/>
+    <br>
+    <b>URL Shortener</b>
+  </a>
+  <p>Generate short links, easy sharing, quick redirection.</p>
+</td>
+
 </tr>
 </table>
 
