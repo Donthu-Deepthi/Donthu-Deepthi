@@ -137,7 +137,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepthi%20Donthu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepthi-donthu-940986269/)  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome)](https://portfolio-deepthi-donthu.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome)](https://deepthi-donthu.vercel.app/)  
 
 [![Email](https://img.shields.io/badge/Email-deepthidonthu33%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:deepthidonthu33@gmail.com)  
 
