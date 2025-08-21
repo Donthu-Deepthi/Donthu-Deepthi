@@ -57,7 +57,7 @@
 
 <td align="center">
   <a href="https://url-shortener-six-navy.vercel.app/">
-    <img src="Screenshot 2024-12-10 175401.png" width="100px"/>
+    <img src="url_shortener_img.png" width="100px"/>
     <br>
     <b>URL Shortener</b>
   </a>
