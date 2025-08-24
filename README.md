@@ -7,11 +7,6 @@
   <b>🌐 Aspiring Web Developer | 💻 CSE Student | ☁️ Cloud Enthusiast</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Donthu-Deepthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
-
 ---
 
 ## 🎯 Career Objective  
@@ -122,6 +117,10 @@
 - **Smart India Hackathon 2024** – Designed *Direct Market Access App for Farmers* using Figma in a team of 6.
 
 ---
+## Profile views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Donthu-Deepthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 ## 💻 Coding Profiles  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Deepthi_Donthu/)  
