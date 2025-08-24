@@ -7,6 +7,11 @@
   <b>🌐 Aspiring Web Developer | 💻 CSE Student | ☁️ Cloud Enthusiast</b>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Donthu-Deepthi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+
 ---
 
 ## 🎯 Career Objective  
